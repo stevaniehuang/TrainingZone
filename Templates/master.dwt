@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/mastercss.css" rel="stylesheet" type="text/css">
+<link href="../css/contentcss.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<div class="container" id="navbar">
+<h1>Training Zone</h1>
+<nav>
+	<ul>
+		<li>Our Story
+			<ul>
+				<li><a href="../history.html">History</a></li>
+				<li><a href="../our_trainers.html">Our Trainers</a></li>
+				<li><a href="../training_article.html">Training Article</a></li>
+			</ul>
+		</li>
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../contact_us.html">Contact Us</a></li>
+	</ul>
+</nav>
+</div>
+<!-- TemplateBeginEditable name="content" -->
+<body>
+<p>
+	
+</p></body>
+<!-- TemplateEndEditable -->
+<footer>
+	© Training Zone 2017
+</footer>
+</html>
